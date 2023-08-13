@@ -211,3 +211,4 @@
     toTimeString() |	It returns the time portion of a Date object.
     toUTCString() |	It converts the specified date in the form of string using UTC time zone.
     valueOf() |	It returns the primitive value of a Date object.
+    
